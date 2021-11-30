@@ -1,1 +1,1 @@
-# An-Exact-methof-for-Reliability-Assessment
+# An-Exact-Method-for-System-Reliability-Assessment
